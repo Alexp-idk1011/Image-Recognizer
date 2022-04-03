@@ -1,0 +1,17 @@
+body {
+    color:white;
+    background-color: cadetblue;
+}
+.heading {
+    width:80%;
+    font-size: 22px;
+
+}
+.name_of_objects, #result_object_name, #result_object_result {
+    color:white
+}
+#camera {
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+}
